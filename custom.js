@@ -38,7 +38,11 @@ var z = 10;
 var x = '5';
 
 var t = y + z + +x;
-console.log(t) 
+
+var c = 100 + 200 + +'100' - -300; 
+console.log(c) 
+
+
 // var sum = 10 + '5' + 10;
 
 // console.log(sum)

@@ -26,7 +26,7 @@
 
    
 
-var firstName = 'Sameer'  //string
+// var firstName = 'Sameer'  //string
 var x =  4545  // number   
 
 // typeof are used to check dataType of primitive data
